@@ -1,0 +1,1 @@
+I have added a zip file for easy download. If you simply want to read the code through github, open the 'FinalJavaAssignment' folder, then open the 'src' folder. This is where you will find an organised structure containing the code.
